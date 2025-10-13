@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Sibonacci989
-- ❄️ By the time you read this I'm probably 13 already!
-- 👨‍👩‍👧‍👧 I have one younger sister
-- 🌱 I’m currently learning making webpages with HTML/CSS/JS
-- 💞️ I’m looking to collaborate on literally anything
-- 📫 How to reach me: Well actually you can't...
-- 😄 Pronouns: She/her
+- ❄️ By the time you read this I'm probably 14 already!
+- 👨‍👩‍👧‍👧 I have a younger sister and live with her and my parents
+- 😺 I have a cat named Milo
+- 🌱 I’m currently learning how to make webpages with HTML/CSS/JS
+- 💞️ I’m looking to collaborate on video games or business websites
+- 📫 How to reach me: email sarahbaig989@gmail.com
+- 📍 Based in Dallas, Texas
 - ⚡ Fun fact: I love Melbourne, it's the best place on Earth
 
 <!---
